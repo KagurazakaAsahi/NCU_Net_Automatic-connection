@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         南昌大学校园网自动连接-改
-// @namespace    http://tampermonkey.net/
+// @namespace    https://www.kablog.top/
 // @version      0.1
 // @description  南昌大学校园网自动连接并关闭（适用NCU-2.4G、NCU-5G、NCUWLAN）只需要在下面输入你的信息即可
 /*
